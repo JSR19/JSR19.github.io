@@ -126,7 +126,7 @@ params:
     intro: "Je m'appelle"
     title: "Jasurbek."
     subtitle: "Je suis etudiant."
-    content: "J'aime le Développement web, Et je m'interesse autant plus à la cryptographie des tokens comme (pepe,shib,eter et le bitcois)."
+    content: "J'aime le Développement web, Et je m'intéresse autant plus à la cryptographie des tokens comme (pepe,shib,ether et le bitcoin)."
     image: /images/hero.svg
     bottomImage:
       enable: true
