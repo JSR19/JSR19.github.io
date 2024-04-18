@@ -53,7 +53,7 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
+  title: "jasurbek Profile"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
@@ -123,10 +123,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Je suis"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    intro: "Je m'appelle"
+    title: "Jasurbek."
+    subtitle: "Je suis etudiant."
+    content: "J'aime le Développement web, Et je m'interesse autant plus à la cryptographie des tokens comme (pepe,shib,eter et le bitcois)."
     image: /images/hero.svg
     bottomImage:
       enable: true
