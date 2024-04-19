@@ -180,15 +180,13 @@ params:
           - J'ai eu aussi des cours en anglais, math, histoire, français, EPS, et économie.
           - J'ai finalement obtenu mon bac sans mentions. 
 
-
-
   #Contact
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    btnName: Mail me
-    btnLink: mailto:gurusabarisha@gmail.com
+    content: Mon inbox est toujours ouvert!
+    btnName: Mail moi
+    btnLink: mailto:jasur.turgunov.2003@gmail.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
@@ -199,7 +197,7 @@ params:
     recentPosts:
       path: "blogs"
       count: 3
-      title: Recent Posts
+      title:  Posts recsent
       enable: true
       disableFeaturedImage: false
     socialNetworks:
