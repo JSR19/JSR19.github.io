@@ -126,7 +126,7 @@ params:
     intro: "Je m'appelle"
     title: "Jasurbek."
     subtitle: "Je suis etudiant."
-    content: "J'aime le Développement web, Et je m'intéresse autant plus à la cryptographie des tokens comme (pepe,shib,ether et le bitcoin)."
+    content: "En BTS SIO SLAM (Brevet Technicien Superieur, Solution Informatique aux Organisation, Solutions Logicielles et applications Métiers) "
     image: /images/hero.svg
     bottomImage:
       enable: true
