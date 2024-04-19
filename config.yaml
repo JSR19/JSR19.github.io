@@ -1,7 +1,7 @@
 baseURL: "https://JSR19.github.io.git"
 languageCode: "en-us"
 title: "JSR Profile"
-theme: Hugo Profile
+theme: Hugo-Profile
 
 outputs:
   home:
@@ -152,8 +152,7 @@ params:
     enable: true
     title: "About Me"
     image: "/images/me.png"
-    content: |-
-      "Je suis etudiant en 2ème années de BTS SIO option SLAM . J'ai un grand intéret sur les nouvelle technologies notamment sur les cryptographies.Je travail actuellement sur la conceptions d'un tokens basées sur la blockchains."
+    content: "Je suis etudiant en 2ème années de BTS SIO option SLAM . J'ai un grand intéret sur les nouvelles technologies notamment sur la cryptographies.Je travail actuellement sur la conceptions d'un tokens basées sur la blockchains."
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
