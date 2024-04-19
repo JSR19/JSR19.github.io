@@ -243,11 +243,11 @@ params:
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+      - title: "Lycée Générale options svt Physique-chimie"
         school:
-          name: "Collège la rochotte"
+          name: "Lycée bouchardon"
           url: "https://example.org"
-        date: "2015 - 2019"
+        date: "2016 - 2019"
         GPA: "3.9 out of 5.0"
         content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
