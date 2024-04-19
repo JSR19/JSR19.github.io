@@ -239,9 +239,9 @@ params:
           url: "https://example.org"
         date: "2020 - 2022"
         content: |-
-          J ai passé 2 années a apprendre 
-            - a coder en c# ,html, css, js, xmljson, linux.
-            - et j ai aussi eu des cours en math, cejm, anglais, français.
+          "J'ai passé 2 années a apprendre" 
+            "- a coder en c# ,html, css, js, xmljson, linux."
+            "- et j'ai aussi eu des cours en math, cejm, anglais, français."
       - title: "Lycée Générale options svt Physique-chimie"
         school:
           name: "Lycée bouchardon"
@@ -249,13 +249,9 @@ params:
         date: "2016 - 2019"
         GPA: "3.9 out of 5.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.    
+          "J'ai pris options svt et physique chimie , pour passer mon bac générale "
+          "- J'ai eu aussi des cours en anglais, math, histoire, français, EPS, et économie."
+          "- J'ai finalement obtenu mon bac sans mentions. "
 
   # Achievements
   achievements:
