@@ -114,7 +114,6 @@ params:
       showOnScrollUp : true
     menus:
       disableAbout: false
-      disableExperience: false
       disableEducation: false
       disableProjects: false
       disableAchievements: false
@@ -162,71 +161,6 @@ params:
         - "Visual studio (c#)"
         - "phpMyAdmin, laragon etc"
 
-  # Experience
-  experience:
-    enable: true
-    # title: "Custom Name"
-    items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
-        info:
-          enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
   # Education
   education:
     enable: true
@@ -245,11 +179,9 @@ params:
       - title: "Lycée Générale options svt Physique-chimie"
         school:
           name: "Lycée bouchardon"
-          url: "https://example.org"
         date: "2016 - 2019"
-        GPA: "3.9 out of 5.0"
         content: |-
-          "J'ai pris options svt et physique chimie , pour passer mon bac générale "
+          "J'ai choisi options svt et physique chimie , pour passer mon bac générale "
           "- J'ai eu aussi des cours en anglais, math, histoire, français, EPS, et économie."
           "- J'ai finalement obtenu mon bac sans mentions. "
 
