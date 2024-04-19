@@ -1,7 +1,7 @@
 baseURL: "https://JSR19.github.io.git"
 languageCode: "en-us"
 title: "JSR Profile"
-theme: Hugo-Profile
+theme: hugo-profile
 
 outputs:
   home:
