@@ -152,15 +152,15 @@ params:
     enable: true
     title: "About Me"
     image: "/images/me.png"
-    content: "Je suis etudiant en 2ème années de BTS SIO option SLAM . J'ai un grand intéret sur les nouvelles technologies notamment sur la cryptographies.Je travail actuellement sur la conceptions d'un tokens basées sur la blockchains."
+    content: "J'ai un grand intérêt pour les nouvelles technologies, notamment la cryptographie(blockchains)."
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Les Logiciels que j'ai utiliser au cours de mes 2 années de bts:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "phpMyAdmin"
+        - "Nodpad++"
+        - "Visual Studio code"
+        - "Visual studio (c#)"
+        - "phpMyAdmin, laragon etc"
 
   # Experience
   experience:
